@@ -1,0 +1,39 @@
+$date
+	Sun Aug 01 14:18:17 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_cmos_inverter $end
+$var wire 1 ! inv_out $end
+$var reg 1 " inv_in $end
+$scope module uut $end
+$var wire 1 # GND $end
+$var wire 1 $ PWR $end
+$var wire 1 " inv_in $end
+$var wire 1 ! inv_out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1$
+0#
+0"
+1!
+$end
+#2000
+0!
+1"
+#4000
+1!
+0"
+#6000
+0!
+1"
+#8000
+1!
+0"

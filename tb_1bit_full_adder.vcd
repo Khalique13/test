@@ -1,0 +1,204 @@
+$date
+	Tue Aug 03 17:35:04 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_1bit_full_adder $end
+$var wire 1 ! sum $end
+$var wire 1 " cout $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % c $end
+$scope module uut $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % cin $end
+$var wire 1 ! sum $end
+$var wire 1 " cout $end
+$scope module cout_gate $end
+$var wire 1 # a $end
+$var wire 1 & ab $end
+$var wire 1 ' ac $end
+$var wire 1 $ b $end
+$var wire 1 ( bc $end
+$var wire 1 % c $end
+$var wire 1 " cout $end
+$upscope $end
+$scope module sum_gate $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % c $end
+$var wire 1 ! sum $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#1000
+1!
+1%
+#2000
+0%
+1$
+#3000
+1"
+1(
+0!
+1%
+#4000
+0"
+0(
+1!
+0%
+0$
+1#
+#5000
+1"
+1'
+0!
+1%
+#6000
+0'
+1&
+0%
+1$
+#7000
+1(
+1'
+1!
+1%
+#8000
+0"
+0(
+0&
+0'
+0!
+0%
+0$
+0#
+#9000
+1!
+1%
+#10000
+0%
+1$
+#11000
+1"
+1(
+0!
+1%
+#12000
+0"
+0(
+1!
+0%
+0$
+1#
+#13000
+1"
+1'
+0!
+1%
+#14000
+0'
+1&
+0%
+1$
+#15000
+1(
+1'
+1!
+1%
+#16000
+0"
+0(
+0&
+0'
+0!
+0%
+0$
+0#
+#17000
+1!
+1%
+#18000
+0%
+1$
+#19000
+1"
+1(
+0!
+1%
+#20000
+0"
+0(
+1!
+0%
+0$
+1#
+#21000
+1"
+1'
+0!
+1%
+#22000
+0'
+1&
+0%
+1$
+#23000
+1(
+1'
+1!
+1%
+#24000
+0"
+0(
+0&
+0'
+0!
+0%
+0$
+0#
+#25000
+1!
+1%
+#26000
+0%
+1$
+#27000
+1"
+1(
+0!
+1%
+#28000
+0"
+0(
+1!
+0%
+0$
+1#
+#29000
+1"
+1'
+0!
+1%
+#30000
+0'
+1&
+0%
+1$
